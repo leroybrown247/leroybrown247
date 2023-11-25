@@ -1,9 +1,9 @@
 <ul>
-<li>👋 Hi, I’m @leroybrown247</li>
+<li>👋 Hi, I’m <a href="https://github.com/leroybrown247">@leroybrown247</a></li>
 <li>👀 Web development and design are my interests</li>
 <li>😊 Collaborate with me in building responsive and interactive web applications</li>
-<li>📫 How to reach me: leroybrown247@gmail.com</li>
-<li href="https://leroybrown247.github.io/leroy.dev/">⚡ View My Portfolio</li>
+<li>📫 Reach me at: <a href="mailto:leroybrown247@gmail.com">leroybrown247@gmail.com</a></li>
+<li><a href="https://leroybrown247.github.io/leroy.dev/">⚡ View My Portfolio</li>
 </ul>
 <br/>
 <div>
