@@ -3,7 +3,7 @@
 <li>👀 Web development and design are my interests</li>
 <li>😊 Collaborate with me in building responsive and interactive web applications</li>
 <li>📫 Reach me at: <a href="mailto:leroybrown247@gmail.com">leroybrown247@gmail.com</a></li>
-<li><a href="https://leroybrown247.github.io/leroy.dev/">⚡ View My Portfolio</li>
+<li><a href=https://leroybrown.netlify.app/>⚡ View My Portfolio</li>
 </ul>
 <br/>
 <div>
