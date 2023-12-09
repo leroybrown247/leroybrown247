@@ -16,7 +16,7 @@
 
 <div>
  <ul>
- <p>🔭 I’m currently working on with APIs and consuming data with vaious methods</p>
+ <p>🔭 I’m currently working with APIs and consuming data in vaious ways</p>
  <p>🌱 I’m currently working on improving my front end technologies such React, JavaScript and Typescript while becoming more familiar in Bootstrap, Sass, and Tailwind through Codecademy certifications</p>
  </ul>
  
