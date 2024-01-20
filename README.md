@@ -1,6 +1,6 @@
 <ul>
 <li>👋 Hi, I’m <a href="https://github.com/leroybrown247">@leroybrown247</a></li>
-<li>👀 Web development and design are my interests</li>
+<li>👀 Front End Web Development and UX design are my interests</li>
 <li>😊 Collaborate with me in building responsive and interactive web applications</li>
 <li>📫 Reach me at: <a href="mailto:leroybrown247@gmail.com">leroybrown247@gmail.com</a></li>
 <li><a href=https://leroybrown.netlify.app/>⚡ View My Portfolio</li>
@@ -16,8 +16,8 @@
 
 <div>
  <ul>
- <p>🔭 I’m currently working with APIs and consuming data in vaious ways</p>
- <p>🌱 I’m currently working on improving my front end technologies such React, JavaScript and Typescript while becoming more familiar in Bootstrap, Sass, and Tailwind through Codecademy certifications</p>
+ <p>🌱 Also improving my front end technologies such React, JavaScript and Typescript while becoming more familiar in Bootstrap, Sass, and Tailwind through Codecademy certifications</p>
+<p>🔭 I’m currently working to improve my understanding of UI UX methodologies by developing my Figma skill set.</p>
  </ul>
  
  <hr>
